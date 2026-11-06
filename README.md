@@ -1,6 +1,5 @@
 # RPGMCheat — Universal In-Game Cheat Menu & RGSS Decryptor for RPG Maker
 
-[![CI](https://github.com/Azaki21421/rpgmaker_cheat/actions/workflows/ci.yml/badge.svg)](https://github.com/Azaki21421/rpgmaker_cheat/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Engines: MV MZ VXAce VX XP mkxp](https://img.shields.io/badge/Engines-MV%20%7C%20MZ%20%7C%20VXAce%20%7C%20VX%20%7C%20XP%20%7C%20mkxp-brightgreen.svg)](#supported-engines--encrypted-archives)
 [![Zero-Dependency](https://img.shields.io/badge/Zero--Dependencies-Windows%20PowerShell%20%2B%20Python3%20std-orange.svg)](#quick-installation)
@@ -118,13 +117,6 @@ RPGMCheat.noclip = true;
 
 ---
 
-## Testing
-
-Run the automated test suite locally:
-
-```bash
-python tests/test_all.py
-```
 
 ---
 
